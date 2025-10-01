@@ -1,0 +1,21 @@
+html
+{font-family: sans-serif;
+} 
+
+.page-title{
+    font-weight: 100;
+    font-size: 16px;
+}
+
+
+.item{
+    background-color: hsl(0,0%,60%);
+    border-width: 4px;
+    border-style: solid;
+    border-color: #111;
+    border-radius: 10px;
+    color:#eee;
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;    
+}
